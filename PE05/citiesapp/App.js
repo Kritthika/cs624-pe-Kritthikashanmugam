@@ -6,7 +6,7 @@ import { LogBox } from 'react-native';
 LogBox.ignoreLogs([
   'Non-serializable values were found in the navigation state',
 ]);
-//importing 
+
 import Cities from './src/Cities/Cities'
 import AddCity from './src/AddCity/AddCity'
 import Countries from './src/Countries/Countries'
